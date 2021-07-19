@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>All Test Cases</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>df88b384-4db8-4c82-b255-0afa0fd22006</testSuiteGuid>
+   <testCaseLink>
+      <guid>a0563e92-af63-4df2-abaf-b07e766ac42b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CreateNewUser</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>cf94dbfd-a5c4-4e87-98ae-aa9def346673</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ListUser_H</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>cf94dbfd-a5c4-4e87-98ae-aa9def346673</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>age</value>
+         <variableId>c7c0a798-e960-4eb6-ad2f-ac91aab700ac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cf94dbfd-a5c4-4e87-98ae-aa9def346673</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>gender</value>
+         <variableId>17b6002c-0a89-4cc6-8f02-298e2646ade1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cf94dbfd-a5c4-4e87-98ae-aa9def346673</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>3bd9649c-d715-424c-a877-9f42f52418db</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cf94dbfd-a5c4-4e87-98ae-aa9def346673</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>7ca0e4fd-75f1-4104-8b99-a5a0c5d521bd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

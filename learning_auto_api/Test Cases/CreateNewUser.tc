@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateNewUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a31dccbe-de95-4384-a35a-fda923689353</testCaseGuid>
+   <variable>
+      <defaultValue>'20'</defaultValue>
+      <description></description>
+      <id>c7c0a798-e960-4eb6-ad2f-ac91aab700ac</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+   <variable>
+      <defaultValue>'Name'</defaultValue>
+      <description></description>
+      <id>17b6002c-0a89-4cc6-8f02-298e2646ade1</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+   <variable>
+      <defaultValue>'hung0000'</defaultValue>
+      <description></description>
+      <id>3bd9649c-d715-424c-a877-9f42f52418db</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>7ca0e4fd-75f1-4104-8b99-a5a0c5d521bd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
